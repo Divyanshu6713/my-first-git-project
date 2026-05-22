@@ -1,1 +1,1 @@
-Hello, this is my first project for shortxlinks practice 
+Hello, this is my first project for my practice 
